@@ -1,6 +1,6 @@
 # ImageJ-ColorThreshold
 
-This repository contains macro programs for color thresholding RGB images. In order for the RGB image to be thresholded using a macro, it has to be converted to a HSB (Hue, Saturation, Brightness) Image. 
+This repository contains macro programs for color thresholding RGB images. In order for the RGB image to be thresholded using a macro, it has to be converted to a HSB (Hue, Saturation, Brightness) Image. All macros will run the measure function at the end. 
 
 **This macro does NOT work for the batch measure.**
 
