@@ -11,4 +11,4 @@ This repository contains macro programs for color thresholding RGB images. In or
 I am working on a macro that will open each iamge in a folder sequentially and close it out once it is done measuring the image. This will eliminate the need to open multiple images at once. 
 
 
-Macros can be installed into ImageJ, but will be removed everytime the program is restarted. 
+Macros can be installed into ImageJ (Plugins --> Macros --> Install...), but will be removed everytime the program is restarted. 
