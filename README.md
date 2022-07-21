@@ -2,7 +2,7 @@
 
 This repository contains macro programs for color thresholding RGB images. In order for the RGB image to be thresholded using a macro, it has to be converted to a HSB (Hue, Saturation, Brightness) Image. All macros will run the measure function at the end. 
 
-**Tjese macros does NOT work for the batch measure function.**
+**These macros do NOT work for the batch measure function.**
 
 -The macro titled **"color-threshold"** allows a single image can be color thresholded. To edit it, you go Plugins --> Macros --> Edit... to view the macro code. You can then change the different values (which are labeled) to suit your needs. 
 
